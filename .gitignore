@@ -1,2 +1,7 @@
+/wanda-film/target
+/out
 *.iml
-/.idea
+.idea
+.mvn
+mvnw
+mvnw.cmd
